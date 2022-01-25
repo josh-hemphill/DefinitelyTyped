@@ -22,4 +22,4 @@ declare const markdownItLinkAttributes: PluginWithOptions<
     readonly defaultRender: RenderRule;
 };
 
-export = markdownItLinkAttributes;
+export default markdownItLinkAttributes;
